@@ -1,5 +1,5 @@
 0.7
--fix movie playback error
+-fix movies error
 
 0.6
 - fix urllib3 error
